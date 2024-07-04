@@ -11,7 +11,7 @@ const Contacts = () => {
 
       <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-10 mb-2 relative z-[1]">
         <h2 className={styles.heading2}>
-          Person In Charge
+          Our Experts at Your Service
         </h2>
       </div>
 

@@ -9,7 +9,7 @@ const AboutMe = () => {
         <div className="w-full px-4 mb-10 text-white items-center">
             <h2 className="font-bold font-poppins text-3xl text-slate-700 mb-4 tracking-wider mx-auto">About Me</h2>
             <p
-                className="text-base font-medium mx-auto text-slate-400 w-auto sm:w-[550px] text-center tracking-widest leading-8 text-slate-400">
+                className="text-base font-poppins font-medium mx-auto  w-auto sm:w-[550px] text-center tracking-widest leading-8 text-dimWhite">
                 I'm an Undergraduate Student of Telecomunication Engineering.
                 As a Student that graduated from a vocational schoool,
                 i'm already familiar with programming especialy in fullstack web development using PHP</p>
